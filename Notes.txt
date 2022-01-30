@@ -1,0 +1,37 @@
+- Button search [done]
+- Pagination [done]
+- Delete category malah nambah data [cancelled]
+- Buat customer_id menjadi urut misal data terakhir C0001 maka selanjutnya adalah C0002 [done]
+- Menambahkan dropdown member id pada add customer. [cancelled]
+- Menambahkan status:
+	1. Pending Down Payment [done]
+	2. Booked [done]
+	3. On Going [done]
+	4. Done [done]
+	5. Cancel [done]
+	6. Ready [done]
+- Menampilkan kolom price per item sebelum total price di menu Order (acuan dari item_tbl) [done]
+
+ALTER TABLE order_tbl
+DROP FOREIGN KEY order_tbl_ibfk_2,
+MODIFY item_id int UNSIGNED;
+
+- Jika update status maka pick up date dan return date pada item_tbl dan order_tbl harus sama2 berubah. [done]
+- Add item pada order diubah menjadi input type dan suggestion saja dari pada dropdown. [done]
+- Order ID belum bisa urut paling akhir no.nya (ada kombinasi dengan huruf). [done]
+- Jangan lupa disabled kembali order id. [done]
+
+Minta tolong:
+
+1. Kasih pagination di menu item aja (nanti yg lain aku biar nyontoh). [done]
+2. Buat customer_id menjadi urut misal data terakhir C0001 maka selanjutnya adalah C0002. [done]
+3. Acuan kolom Price per Item di menu Order, dibuat mengacu pada menu item. [done]
+4. Buat order_id menjadi urut misal data terakhir ORD000001 maka selanjutnya adalah ORD000002. [done]
+5. Add item pada menu order diubah menjadi input type dan suggestion saja dari pada dropdown (kyk di master pn punya hydcon inventory). [done]
+
+select a.customer_id, b.fullname, b.member_id, b.registered_date, count(a.order_id) as jml 
+from order_tbl a
+inner join customer_tbl b on a.customer_id = b.customer_id
+group by a.customer_id
+
+

@@ -1,0 +1,496 @@
+[06-Jan-2022 10:00:41 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 12
+[06-Jan-2022 10:00:41 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rige4492/public_html/globalphotorental/download_invoice_order.php on line 5
+[06-Jan-2022 10:00:41 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/rige4492/public_html/globalphotorental/download_invoice_order.php on line 16
+[06-Jan-2022 10:00:41 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rige4492/public_html/globalphotorental/download_invoice_order.php on line 17
+[06-Jan-2022 10:00:41 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[06-Jan-2022 10:00:41 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[06-Jan-2022 10:01:18 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 12
+[06-Jan-2022 10:01:18 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rige4492/public_html/globalphotorental/download_invoice_order.php on line 5
+[06-Jan-2022 10:01:18 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/rige4492/public_html/globalphotorental/download_invoice_order.php on line 16
+[06-Jan-2022 10:01:18 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rige4492/public_html/globalphotorental/download_invoice_order.php on line 17
+[06-Jan-2022 10:01:18 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[06-Jan-2022 10:01:18 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[06-Jan-2022 10:10:44 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 12
+[06-Jan-2022 10:10:44 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rige4492/public_html/globalphotorental/download_invoice_order.php on line 5
+[06-Jan-2022 10:10:44 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/rige4492/public_html/globalphotorental/download_invoice_order.php on line 16
+[06-Jan-2022 10:10:44 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rige4492/public_html/globalphotorental/download_invoice_order.php on line 17
+[06-Jan-2022 10:10:44 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[06-Jan-2022 10:10:44 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[06-Jan-2022 10:10:44 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rige4492/public_html/globalphotorental/download_invoice_order.php on line 5
+[06-Jan-2022 10:10:44 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/rige4492/public_html/globalphotorental/download_invoice_order.php on line 16
+[06-Jan-2022 10:10:44 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rige4492/public_html/globalphotorental/download_invoice_order.php on line 17
+[06-Jan-2022 10:10:44 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[06-Jan-2022 10:10:44 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[06-Jan-2022 10:11:30 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 12
+[06-Jan-2022 10:11:30 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rige4492/public_html/globalphotorental/download_invoice_order.php on line 5
+[06-Jan-2022 10:11:30 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/rige4492/public_html/globalphotorental/download_invoice_order.php on line 16
+[06-Jan-2022 10:11:30 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rige4492/public_html/globalphotorental/download_invoice_order.php on line 17
+[06-Jan-2022 10:11:30 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[06-Jan-2022 10:11:30 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[06-Jan-2022 10:13:53 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 12
+[06-Jan-2022 10:13:53 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rige4492/public_html/globalphotorental/download_invoice_order.php on line 5
+[06-Jan-2022 10:13:53 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/rige4492/public_html/globalphotorental/download_invoice_order.php on line 16
+[06-Jan-2022 10:13:53 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rige4492/public_html/globalphotorental/download_invoice_order.php on line 17
+[06-Jan-2022 10:13:53 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[06-Jan-2022 10:13:53 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[06-Jan-2022 10:14:44 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 12
+[06-Jan-2022 10:14:44 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[06-Jan-2022 10:14:44 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[06-Jan-2022 10:15:57 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 12
+[06-Jan-2022 10:15:57 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[06-Jan-2022 10:15:57 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[06-Jan-2022 10:16:06 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[06-Jan-2022 10:16:06 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[06-Jan-2022 10:16:07 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[06-Jan-2022 10:16:07 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[06-Jan-2022 10:16:18 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[06-Jan-2022 10:16:18 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[06-Jan-2022 10:16:25 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[06-Jan-2022 10:16:25 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[06-Jan-2022 10:31:16 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 12
+[06-Jan-2022 10:31:16 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[06-Jan-2022 10:31:16 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[06-Jan-2022 10:31:25 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[06-Jan-2022 10:31:25 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[06-Jan-2022 10:31:25 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[06-Jan-2022 10:31:25 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[06-Jan-2022 10:36:24 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 12
+[06-Jan-2022 10:36:24 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[06-Jan-2022 10:36:24 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[06-Jan-2022 10:36:24 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[06-Jan-2022 10:36:24 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[06-Jan-2022 11:10:56 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 12
+[06-Jan-2022 11:10:56 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 12
+[06-Jan-2022 11:10:56 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[06-Jan-2022 11:10:56 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[06-Jan-2022 11:10:56 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[06-Jan-2022 11:10:56 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[06-Jan-2022 13:34:18 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 12
+[06-Jan-2022 13:34:18 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[06-Jan-2022 13:34:18 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[06-Jan-2022 13:34:18 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[06-Jan-2022 13:34:18 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[10-Jan-2022 19:55:07 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/rige4492/public_html/globalphotorental/order_add.php on line 127
+[10-Jan-2022 21:12:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Object of class DateTime could not be converted to string in /home/rige4492/public_html/globalphotorental/order_add_data.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/rige4492/public_html/globalphotorental/order_add_data.php on line 21
+[10-Jan-2022 21:13:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Object of class DateTime could not be converted to string in /home/rige4492/public_html/globalphotorental/order_add_data.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/rige4492/public_html/globalphotorental/order_add_data.php on line 21
+[10-Jan-2022 22:44:56 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ')', expecting ';' or ',' in /home/rige4492/public_html/globalphotorental/order_list.php on line 185
+[10-Jan-2022 22:52:52 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 12
+[10-Jan-2022 22:52:52 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/rige4492/public_html/globalphotorental/download_invoice_order.php on line 17
+[10-Jan-2022 22:52:52 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[10-Jan-2022 22:52:52 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[10-Jan-2022 22:52:52 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/rige4492/public_html/globalphotorental/download_invoice_order.php on line 17
+[10-Jan-2022 22:52:52 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[10-Jan-2022 22:52:52 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[10-Jan-2022 22:53:06 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/rige4492/public_html/globalphotorental/download_invoice_order.php on line 17
+[10-Jan-2022 22:53:06 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[10-Jan-2022 22:53:06 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[10-Jan-2022 22:53:06 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/rige4492/public_html/globalphotorental/download_invoice_order.php on line 17
+[10-Jan-2022 22:53:06 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[10-Jan-2022 22:53:06 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[10-Jan-2022 22:53:14 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/rige4492/public_html/globalphotorental/download_invoice_order.php on line 17
+[10-Jan-2022 22:53:14 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[10-Jan-2022 22:53:14 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 09:34:32 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 12
+[15-Jan-2022 09:34:32 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/rige4492/public_html/globalphotorental/download_invoice_order.php on line 17
+[15-Jan-2022 09:34:32 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 09:34:32 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 09:35:18 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/rige4492/public_html/globalphotorental/download_invoice_order.php on line 17
+[15-Jan-2022 09:35:18 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 09:35:18 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 09:39:44 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 12
+[15-Jan-2022 09:39:44 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 09:39:44 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 09:39:54 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 09:39:54 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 09:40:54 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 12
+[15-Jan-2022 09:43:04 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 09:43:04 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 09:44:00 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 12
+[15-Jan-2022 09:44:00 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 09:44:00 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 09:44:10 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 09:44:10 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 09:44:16 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 09:44:16 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 09:44:20 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 09:44:20 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 09:46:36 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 12
+[15-Jan-2022 09:46:36 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 09:46:36 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 09:53:18 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 12
+[15-Jan-2022 09:53:18 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 09:53:18 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 09:53:34 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 09:53:34 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 09:55:54 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/rige4492/public_html/globalphotorental/download_invoice_order.php on line 194
+[15-Jan-2022 09:56:04 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 12
+[15-Jan-2022 09:56:04 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 09:56:04 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 09:56:31 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 09:56:31 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 09:56:47 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 09:56:47 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 09:57:42 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 12
+[15-Jan-2022 09:57:42 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 09:57:42 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 09:59:00 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 12
+[15-Jan-2022 09:59:00 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 09:59:00 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 09:59:26 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 09:59:26 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 09:59:41 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 09:59:41 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:02:14 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 12
+[15-Jan-2022 10:02:14 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:02:14 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:02:45 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 12
+[15-Jan-2022 10:02:45 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:02:45 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:03:10 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:03:10 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:03:26 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:03:26 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:03:41 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 12
+[15-Jan-2022 10:03:41 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:03:41 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:04:29 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 12
+[15-Jan-2022 10:04:29 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:04:29 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:04:42 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:04:42 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:04:50 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:04:50 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:05:00 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:05:00 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:05:13 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:05:13 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:05:29 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:05:29 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:05:37 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:05:37 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:05:47 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:05:47 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:07:50 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 12
+[15-Jan-2022 10:07:50 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:07:50 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:08:18 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:08:18 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:09:03 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 12
+[15-Jan-2022 10:09:03 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:09:03 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:09:43 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 12
+[15-Jan-2022 10:09:43 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:09:43 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:09:53 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:09:53 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:10:04 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:10:04 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:10:17 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:10:17 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:10:28 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:10:28 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:10:40 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:10:40 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:10:48 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:10:48 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:10:54 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:10:54 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:11:08 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:11:08 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:11:17 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:11:17 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:15:10 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 12
+[15-Jan-2022 10:15:10 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:15:10 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:18:58 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 12
+[15-Jan-2022 10:18:58 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:18:58 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:20:11 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 12
+[15-Jan-2022 10:20:11 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:20:11 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:20:58 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 12
+[15-Jan-2022 10:20:58 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:20:58 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:21:25 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:21:25 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:21:45 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:21:45 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:21:52 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:21:52 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:22:06 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:22:06 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:22:18 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:22:18 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:22:46 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:22:46 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:23:07 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:23:07 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:23:28 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:23:28 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:23:54 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:23:54 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:23:59 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:23:59 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:24:05 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:24:05 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:24:15 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:24:15 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:24:26 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:24:26 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:25:02 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 12
+[15-Jan-2022 10:25:02 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:25:02 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:25:30 Asia/Jakarta] PHP Warning:  date_diff() expects parameter 2 to be DateTimeInterface, bool given in /home/rige4492/public_html/globalphotorental/download_invoice_order.php on line 44
+[15-Jan-2022 10:25:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function format() on bool in /home/rige4492/public_html/globalphotorental/download_invoice_order.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/rige4492/public_html/globalphotorental/download_invoice_order.php on line 46
+[15-Jan-2022 10:25:39 Asia/Jakarta] PHP Warning:  date_diff() expects parameter 2 to be DateTimeInterface, bool given in /home/rige4492/public_html/globalphotorental/download_invoice_order.php on line 44
+[15-Jan-2022 10:25:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function format() on bool in /home/rige4492/public_html/globalphotorental/download_invoice_order.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/rige4492/public_html/globalphotorental/download_invoice_order.php on line 46
+[15-Jan-2022 10:25:46 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:25:46 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:27:04 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 12
+[15-Jan-2022 10:27:04 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:27:04 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:27:23 Asia/Jakarta] PHP Warning:  date_diff() expects parameter 2 to be DateTimeInterface, bool given in /home/rige4492/public_html/globalphotorental/download_invoice_order.php on line 44
+[15-Jan-2022 10:27:23 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function format() on bool in /home/rige4492/public_html/globalphotorental/download_invoice_order.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/rige4492/public_html/globalphotorental/download_invoice_order.php on line 46
+[15-Jan-2022 10:29:33 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 12
+[15-Jan-2022 10:29:33 Asia/Jakarta] PHP Warning:  date_diff() expects parameter 2 to be DateTimeInterface, bool given in /home/rige4492/public_html/globalphotorental/download_invoice_order.php on line 44
+[15-Jan-2022 10:29:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function format() on bool in /home/rige4492/public_html/globalphotorental/download_invoice_order.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/rige4492/public_html/globalphotorental/download_invoice_order.php on line 46
+[15-Jan-2022 10:29:42 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:29:42 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:30:03 Asia/Jakarta] PHP Warning:  date_diff() expects parameter 2 to be DateTimeInterface, bool given in /home/rige4492/public_html/globalphotorental/download_invoice_order.php on line 44
+[15-Jan-2022 10:30:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function format() on bool in /home/rige4492/public_html/globalphotorental/download_invoice_order.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/rige4492/public_html/globalphotorental/download_invoice_order.php on line 46
+[15-Jan-2022 10:30:08 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:30:08 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:31:25 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 12
+[15-Jan-2022 10:31:25 Asia/Jakarta] PHP Warning:  date_diff() expects parameter 2 to be DateTimeInterface, bool given in /home/rige4492/public_html/globalphotorental/download_invoice_order.php on line 44
+[15-Jan-2022 10:31:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function format() on bool in /home/rige4492/public_html/globalphotorental/download_invoice_order.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/rige4492/public_html/globalphotorental/download_invoice_order.php on line 46
+[15-Jan-2022 10:33:41 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 12
+[15-Jan-2022 10:33:41 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:33:41 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:33:47 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:33:47 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:33:48 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:33:48 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:36:49 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 12
+[15-Jan-2022 10:36:49 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:36:49 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:37:29 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 12
+[15-Jan-2022 10:37:29 Asia/Jakarta] PHP Warning:  date_diff() expects parameter 2 to be DateTimeInterface, bool given in /home/rige4492/public_html/globalphotorental/download_invoice_order.php on line 44
+[15-Jan-2022 10:37:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function format() on bool in /home/rige4492/public_html/globalphotorental/download_invoice_order.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/rige4492/public_html/globalphotorental/download_invoice_order.php on line 46
+[15-Jan-2022 10:37:47 Asia/Jakarta] PHP Warning:  date_diff() expects parameter 2 to be DateTimeInterface, bool given in /home/rige4492/public_html/globalphotorental/download_invoice_order.php on line 44
+[15-Jan-2022 10:37:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function format() on bool in /home/rige4492/public_html/globalphotorental/download_invoice_order.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/rige4492/public_html/globalphotorental/download_invoice_order.php on line 46
+[15-Jan-2022 10:37:55 Asia/Jakarta] PHP Warning:  date_diff() expects parameter 2 to be DateTimeInterface, bool given in /home/rige4492/public_html/globalphotorental/download_invoice_order.php on line 44
+[15-Jan-2022 10:37:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function format() on bool in /home/rige4492/public_html/globalphotorental/download_invoice_order.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/rige4492/public_html/globalphotorental/download_invoice_order.php on line 46
+[15-Jan-2022 10:37:55 Asia/Jakarta] PHP Warning:  date_diff() expects parameter 2 to be DateTimeInterface, bool given in /home/rige4492/public_html/globalphotorental/download_invoice_order.php on line 44
+[15-Jan-2022 10:37:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function format() on bool in /home/rige4492/public_html/globalphotorental/download_invoice_order.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/rige4492/public_html/globalphotorental/download_invoice_order.php on line 46
+[15-Jan-2022 10:38:08 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:38:08 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:38:35 Asia/Jakarta] PHP Warning:  date_diff() expects parameter 2 to be DateTimeInterface, bool given in /home/rige4492/public_html/globalphotorental/download_invoice_order.php on line 44
+[15-Jan-2022 10:38:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function format() on bool in /home/rige4492/public_html/globalphotorental/download_invoice_order.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/rige4492/public_html/globalphotorental/download_invoice_order.php on line 46
+[15-Jan-2022 10:38:37 Asia/Jakarta] PHP Warning:  date_diff() expects parameter 2 to be DateTimeInterface, bool given in /home/rige4492/public_html/globalphotorental/download_invoice_order.php on line 44
+[15-Jan-2022 10:38:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function format() on bool in /home/rige4492/public_html/globalphotorental/download_invoice_order.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/rige4492/public_html/globalphotorental/download_invoice_order.php on line 46
+[15-Jan-2022 10:41:05 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 12
+[15-Jan-2022 10:41:05 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:41:05 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:43:03 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 12
+[15-Jan-2022 10:43:03 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:43:03 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:45:56 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 12
+[15-Jan-2022 10:45:56 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:45:56 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:46:07 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:46:07 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:46:18 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:46:18 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:46:34 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:46:34 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:46:58 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 12
+[15-Jan-2022 10:46:58 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:46:58 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:47:05 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:47:05 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:47:14 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:47:14 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:48:37 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 12
+[15-Jan-2022 10:48:37 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:48:37 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:48:44 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:48:44 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:48:50 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:48:50 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:49:05 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:49:05 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:49:14 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:49:14 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:49:25 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:49:25 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:49:57 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 12
+[15-Jan-2022 10:49:57 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:49:57 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:52:43 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 12
+[15-Jan-2022 10:52:43 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:52:43 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:53:19 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 12
+[15-Jan-2022 10:53:19 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:53:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/rige4492/public_html/globalphotorental/download_invoice_order.php:197
+Stack trace:
+#0 {main}
+  thrown in /home/rige4492/public_html/globalphotorental/download_invoice_order.php on line 197
+[15-Jan-2022 10:53:29 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:53:29 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:54:05 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 12
+[15-Jan-2022 10:54:05 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:54:05 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:55:49 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 12
+[15-Jan-2022 10:55:49 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:55:49 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:56:11 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:56:11 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:56:14 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:56:14 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:57:22 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 12
+[15-Jan-2022 10:57:23 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:57:23 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:57:48 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:57:48 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:59:12 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 12
+[15-Jan-2022 10:59:12 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:59:12 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:59:24 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:59:24 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:59:35 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:59:35 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 10:59:59 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 10:59:59 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 11:00:08 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 11:00:08 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 11:00:37 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 11:00:37 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 11:00:49 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 11:00:49 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 11:01:02 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 11:01:02 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 11:01:12 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 12
+[15-Jan-2022 11:01:12 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 11:01:12 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 11:03:48 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 12
+[15-Jan-2022 11:03:48 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 11:03:48 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 11:04:00 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 11:04:00 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 11:04:19 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 11:04:19 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 11:04:53 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 12
+[15-Jan-2022 11:04:53 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 11:04:53 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 11:05:26 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 12
+[15-Jan-2022 11:05:26 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 11:05:26 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 11:05:54 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 11:05:54 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 11:06:14 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 11:06:14 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 11:07:06 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 12
+[15-Jan-2022 11:07:06 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 11:07:06 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 11:07:46 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 12
+[15-Jan-2022 11:07:46 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 11:07:46 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 11:08:14 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 11:08:14 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 11:22:58 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 12
+[15-Jan-2022 11:22:58 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 11:22:58 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 11:25:05 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 12
+[15-Jan-2022 11:25:05 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 11:25:05 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 11:31:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function format() on bool in /home/rige4492/public_html/globalphotorental/order_list.php:182
+Stack trace:
+#0 {main}
+  thrown in /home/rige4492/public_html/globalphotorental/order_list.php on line 182
+[15-Jan-2022 11:31:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function format() on bool in /home/rige4492/public_html/globalphotorental/order_list.php:182
+Stack trace:
+#0 {main}
+  thrown in /home/rige4492/public_html/globalphotorental/order_list.php on line 182
+[15-Jan-2022 11:31:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function format() on bool in /home/rige4492/public_html/globalphotorental/order_list.php:182
+Stack trace:
+#0 {main}
+  thrown in /home/rige4492/public_html/globalphotorental/order_list.php on line 182
+[15-Jan-2022 11:32:23 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function format() on bool in /home/rige4492/public_html/globalphotorental/order_list.php:182
+Stack trace:
+#0 {main}
+  thrown in /home/rige4492/public_html/globalphotorental/order_list.php on line 182
+[15-Jan-2022 11:48:45 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 12
+[15-Jan-2022 11:48:45 Asia/Jakarta] PHP Warning:  date_diff() expects parameter 1 to be DateTimeInterface, bool given in /home/rige4492/public_html/globalphotorental/download_invoice_order.php on line 44
+[15-Jan-2022 11:48:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function format() on bool in /home/rige4492/public_html/globalphotorental/download_invoice_order.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/rige4492/public_html/globalphotorental/download_invoice_order.php on line 46
+[15-Jan-2022 11:48:48 Asia/Jakarta] PHP Warning:  date_diff() expects parameter 1 to be DateTimeInterface, bool given in /home/rige4492/public_html/globalphotorental/download_invoice_order.php on line 44
+[15-Jan-2022 11:48:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function format() on bool in /home/rige4492/public_html/globalphotorental/download_invoice_order.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/rige4492/public_html/globalphotorental/download_invoice_order.php on line 46
+[15-Jan-2022 11:49:02 Asia/Jakarta] PHP Warning:  date_diff() expects parameter 1 to be DateTimeInterface, bool given in /home/rige4492/public_html/globalphotorental/download_invoice_order.php on line 44
+[15-Jan-2022 11:49:02 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function format() on bool in /home/rige4492/public_html/globalphotorental/download_invoice_order.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/rige4492/public_html/globalphotorental/download_invoice_order.php on line 46
+[15-Jan-2022 11:49:03 Asia/Jakarta] PHP Warning:  date_diff() expects parameter 1 to be DateTimeInterface, bool given in /home/rige4492/public_html/globalphotorental/download_invoice_order.php on line 44
+[15-Jan-2022 11:49:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function format() on bool in /home/rige4492/public_html/globalphotorental/download_invoice_order.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/rige4492/public_html/globalphotorental/download_invoice_order.php on line 46
+[15-Jan-2022 11:49:45 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 12
+[15-Jan-2022 11:49:45 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 11:49:45 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 11:52:01 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 12
+[15-Jan-2022 11:52:01 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 11:52:01 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 11:53:16 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 12
+[15-Jan-2022 11:53:16 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 11:53:16 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
+[15-Jan-2022 11:54:01 Asia/Jakarta] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FPDF has a deprecated constructor in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 12
+[15-Jan-2022 11:54:01 Asia/Jakarta] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1073
+[15-Jan-2022 11:54:01 Asia/Jakarta] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/rige4492/public_html/globalphotorental/fpdf16/fpdf.php on line 1565
