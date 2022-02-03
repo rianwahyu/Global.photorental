@@ -86,6 +86,9 @@
                     $myArray1[] = $data1;
                 }
 
+                $bulan = month($myArray1);
+
+
 
                 $query = "SELECT item_id, item_name, month, SUM(total_price) as total 
                 FROM (SELECT a.item_id, a.item_name, IFNULL(DATE_FORMAT(c.order_date, '%M'), '-') as month , DATEDIFF(`return_date_real`, `pick_up_date`) AS days, COALESCE(b.total_price,0) as total_price 
@@ -128,9 +131,11 @@
                                 <div class="table-responsive">
                                     <?php if (mysqli_num_rows($result1) >= 1) {
 
-                                         
+
 
                                         $grandTotal = 0;
+                                        $grandTotalArr = array();
+                                        $hasil = array();
                                         while ($data = mysqli_fetch_array($result)) {
                                             $myArray[] = $data;
                                         }
@@ -139,15 +144,19 @@
                                             <input type="hidden" name="myArrayPackage" value="<?php echo htmlentities(serialize($myArrayPackage)); ?>" />
                                             <input type="hidden" name="myArray" value="<?php echo htmlentities(serialize($myArray)); ?>" />
                                             <input type="hidden" name="myArray1" value="<?php echo htmlentities(serialize($myArray1)); ?>" />
-                                            <input type="hidden" name="tahun" value="<?= $tahun ?>"/>
+                                            <input type="hidden" name="tahun" value="<?= $tahun ?>" />
                                             <button type="submit" class="btn btn-success float-right">Download Excel</button>
                                         </form>
                                         <table class="table table-bordered">
 
                                             <tr>
                                                 <th class="text-center" scope="col">ITEM NAME</th>
-                                                <?php foreach ($myArray1 as $data1) {
-                                                    echo "<th class='text-center'>" . $data1['month'] . "</th>";
+                                                <?php
+                                                // foreach ($myArray1 as $data1) {
+                                                //     echo "<th class='text-center'>" . $data1['month'] . "</th>";
+                                                // }
+                                                for ($i = 0; $i < count($bulan); $i++) {
+                                                    echo '<th class="text-center">' . strtoupper($bulan[$i]) . '</th>';
                                                 }
                                                 ?>
                                             </tr>
@@ -164,7 +173,9 @@
                                                         if ($dataPackage['item_id'] == $data['item_id']) {
                                                             if ($data['month'] == $data1['month']) {
                                                                 echo rupiah($data['total']);
-                                                                $grandTotal = $grandTotal + $data['total'];
+                                                                //$grandTotal = $grandTotal + $data['total'];
+                                                                //$hasil[] += $data['total'];
+
                                                             } elseif ($data['month'] == "-") {
                                                                 echo rupiah(0);
                                                                 $grandTotal = $grandTotal + 0;
@@ -175,15 +186,39 @@
                                                 }
                                                 echo "</tr>";
                                             }
+
+
+
+                                            $hasil = array();
+                                            for ($j = 0; $j < count($bulan); $j++) {
+                                                $hasil[$j] = 0;
+                                                foreach ($myArray as $data) {
+                                                    if ($data['month'] == $bulan[$j]) {
+                                                        $hasil[$j] += $data['total'];
+                                                    }
+                                                }
+                                            }
+
                                             ?>
 
                                             <tr>
                                                 <th class="text-center" scope="col">Grand Total</th>
-                                                <?php foreach ($myArray1 as $data1) {
-                                                    echo "<th class='text-right'>" . rupiah($grandTotal) . "</th>";
-                                                }
-                                                ?>
+                                                <?php
+                                                for ($j = 0; $j < count($bulan); $j++) {
+                                                    echo '<th class="text-right">' . rupiah($hasil[$j]) . '</th>';
+                                                } ?>
                                             </tr>
+
+                                            <?php
+                                            function _group_by($array, $key)
+                                            {
+                                                $return = array();
+                                                foreach ($array as $val) {
+                                                    $return[$val[$key]][] = $val;
+                                                }
+                                                return $return;
+                                            }
+                                            ?>
 
 
                                         </table>
@@ -195,6 +230,21 @@
 
                                         $hasil_rupiah = "Rp " . number_format($angka, 0, ',', '.');
                                         return $hasil_rupiah;
+                                    }
+
+                                    function month($arr)
+                                    {
+                                        $user = array();
+                                        $i = 0;
+                                        $usertemp = "";
+                                        foreach ($arr as $val) {
+                                            if ($usertemp != $val["month"]) {
+                                                $user[$i] = $val["month"];
+                                                $usertemp = $val["month"];
+                                                $i++;
+                                            }
+                                        }
+                                        return $user;
                                     }
                                     ?>
 
