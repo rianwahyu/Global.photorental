@@ -327,7 +327,7 @@
 
                                                         <div id="deleteOrder<?= $data['order_id'] ?>" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="fill-danger-modalLabel" aria-hidden="true">
                                                             <div class="modal-dialog">
-                                                                <form action="config/order/deleteTempOrder" method="POST">
+                                                                <form action="config/order/deleteOrder" method="POST">
                                                                     <input type="hidden" name="order_id" value="<?= $data['order_id'] ?>" />
                                                                     <div class="modal-content modal-filled bg-danger">
                                                                         <div class="modal-header">
