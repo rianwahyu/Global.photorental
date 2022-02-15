@@ -68,10 +68,10 @@ if (isset($_POST)) {
 //     $dp = 0;
 // }
 
-$totDays = (round($diff->format("%d")));
-if ($totDays <= 0) {
-    $totDays = 1;
-}
+// $totDays = (round($diff->format("%d")));
+// if ($totDays <= 0) {
+//     $totDays = 1;
+// }
 
 if (empty($diskon)) {
     $diskon = 0;

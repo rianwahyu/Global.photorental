@@ -33,6 +33,15 @@ INNER JOIN item_tbl b ON a.item_id=b.item_id
 WHERE 1";
 $result = mysqli_query($dbc, $query);
 
+
+if (mysqli_num_rows($result) >=   1) {
+    $countTemp = mysqli_num_rows($result);
+} else {
+    $countTemp = 0;
+}
+
+//echo $countTemp;
+
 $grandTotal = 0;
 $finalTOtal = 0;
 ?>
@@ -67,9 +76,9 @@ $finalTOtal = 0;
                 <td class="text-right"><?= $data['price'] ?></td>
                 <td class="text-right"><?= $totalPrices ?></td>
                 <td class="text-right"><a href="#" id="deleteTemp" data-id="<?php echo $data['idCart']; ?>">
-                <button type="button" class="btn btn-danger btn-rounded"><i class="far fa-trash-alt"></i> </button>
-                </a></td>
-                
+                        <button type="button" class="btn btn-danger btn-rounded"><i class="far fa-trash-alt"></i> </button>
+                    </a></td>
+
             </tr>
 
         <?php } ?>

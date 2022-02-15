@@ -76,6 +76,9 @@
                     include 'config/connection.php';
                     $querys = "SELECT customer_id, fullname FROM `customer_tbl` WHERE 1";
                     $results = mysqli_query($dbc, $querys);
+
+                    $countTemp = 0;
+
                     ?>
 
                     <div class="col-sm-12 col-md-6 col-lg-6">
@@ -307,7 +310,7 @@
                 e.preventDefault();
 
                 //var dataform = $("#form-add-cart").serialize();
-                var id= $(this).attr('data-id');
+                var id = $(this).attr('data-id');
                 $.ajax({
                     url: "config/order/deleteTempOrder.php",
                     type: "POST",
@@ -320,7 +323,7 @@
                     },
                     success: function(result) {
                         var hasil = JSON.parse(result);
-                        if (hasil.hasil !== "success") {} else {                            
+                        if (hasil.hasil !== "success") {} else {
                             load_data();
                         }
                     }
@@ -351,9 +354,21 @@
                     },
                     success: function(data) {
                         $('#data-cart').html(data);
+
+                        var obj = "<?= $countTemp; ?>";
+                        console.log("Total " + obj);
                     }
                 })
             }
+
+            //$("#submitConfirmOrder").prop("disabled", ids.length === 0);
+
+            //$('#submitConfirmOrder').prop('disabled', true);
+
+
+
+            //alert(obj);
+
 
             $("#submitConfirmOrder").click(function() {
                 var customer_id = $("#customer_id").val();
@@ -381,6 +396,7 @@
                             alert("Sukses");
                             window.location = "order_list.php";
                         } else {
+                            alert("Mohon menambahkan item");
                         }
 
                     }
@@ -428,17 +444,7 @@
                 console.log('Input was cleared');
         })
     </script>
-    <script>
-        $.extend(true, $.fn.dataTable.defaults, {
-            "searching": false,
-            "ordering": false
-        });
 
-
-        $(document).ready(function() {
-            $('#example').DataTable();
-        });
-    </script>
 </body>
 
 </html>

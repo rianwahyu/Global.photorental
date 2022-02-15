@@ -98,6 +98,8 @@
                                     $search = $_GET['search'];
                                 }
 
+                                $myArrayTemp = array();
+
                                 $customSearch = "";
                                 $hasilPencarian = "";
 
@@ -173,10 +175,14 @@
                                 //echo $query;
                                 $result = mysqli_query($dbc, $query);
 
+                               
+
+                                
 
                                 ?>
 
                                 <div class="table-responsive mt-4">
+                                    <?=  $countTemp; ?>
                                     <!-- <table class="table" style="width: 100%;"> -->
                                     <table id="example" class="table table-striped table-bordered no-wrap">
                                         <thead class="bg-primary text-white">
@@ -201,6 +207,7 @@
                                             <?php
                                             $i = 1;
                                             while ($data = mysqli_fetch_array($result)) {
+                                                $myArrayTemp[] = $data;
                                                 $date1 = date_create($data['pick_up_date']);
                                                 $date2 = date_create($data['return_date']);
                                                 $diff = date_diff($date1, $date2);
